@@ -1,0 +1,5 @@
+= buh
+
+Generate this with
+    buh rdoc
+After you have described your command line interface

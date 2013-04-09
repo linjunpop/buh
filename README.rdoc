@@ -1,0 +1,6 @@
+= buh
+
+Describe your project here
+
+:include:buh.rdoc
+
